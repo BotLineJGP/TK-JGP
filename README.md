@@ -11,7 +11,7 @@ https://www.youtube.com/channel/UCHv9yCTgspTFOtULQu9X2wQ
 
 pkg install git -y
 
-pig install nano -y
+pkg install nano -y
 
 pkg install python -y
 
